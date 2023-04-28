@@ -16,7 +16,7 @@ Install WordPress: Move the WordPress files to the root directory of the cloned 
 
 Configure the database: Open XAMPP and start Apache and MySQL. Navigate to http://localhost/phpmyadmin/ in your web browser and restore the database for your WordPress project.
 
-Database backups are inside the SQLBACKUP Folder
+Database backups are inside the db Folder
 
 Configure WordPress: file wp-config.php and edit the settings to match your local database.
 
