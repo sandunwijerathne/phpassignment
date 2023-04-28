@@ -9,7 +9,7 @@ Install XAMPP: If you don't have a local web server installed, download and inst
 Clone the Git repository: Open Git Bash or your preferred terminal and navigate to the directory where you want to install the project. Run the following command to clone the repository:
 
 ```bash
-git clone https://github.com/sandunwijerathne/Assignment.git
+git clone https://github.com/sandunwijerathne/phpassignment
 ```
 Install WordPress: Move the WordPress files to the root directory of the cloned repository.
 
@@ -43,6 +43,9 @@ Create a new project directory: Create a new directory in your local computer wh
 Open Git Bash or Terminal: Open Git Bash or your preferred terminal and navigate to the project directory using the cd command.
 
 Clone the Git repository: Clone the Git repository of your PHP project
+```bash
+git clone https://github.com/sandunwijerathne/phpassignment
+```
 
 Configure the project files: Move or copy all the files of your PHP project to the root directory of the cloned repository.
 
