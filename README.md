@@ -31,7 +31,7 @@ un - iwdsandun@gmail.com
 pw - Poiuy@123
 ```
 
-## Install a Github Laravel project in localhost
+## PHP project in localhost
 PHP Project is "** phpproject ** "<br>
 
 Download and install XAMPP: XAMPP is a free and open-source cross-platform web server package that includes Apache, PHP, MySQL, and other necessary components for running PHP web applications. You can download it from the Apache Friends website.
@@ -49,6 +49,8 @@ Configure the project files: Move or copy all the files of your PHP project to t
 Configure the database: Open XAMPP and start Apache and MySQL. Navigate to http://localhost/phpmyadmin/ in your web browser and create a new database for your PHP project.
 
 Import database backup: If you have a database backup file, import it into your local database.
+
+Database backups are inside the db Folder
 
 Configure the database connection: Open the configuration file of your PHP project and update the database connection settings to match your local database configuration.
 
